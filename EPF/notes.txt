@@ -1,1 +1,25 @@
 This is the Beginnig of a life changing Journey, with Etherum foundation
+
+## Curriculum
+
+#Phase 1&2 | Learning, Deep Dive and Proposal
+
+-Starts now until week 5
+-Dive into the protocol and submitted project ideas from teams
+-Signal what you are interesed in and dive into it
+-Introductory office hours and project presentations. 
+-Discuss and get feedback from Mario
+-Prepare a project proposal with specification
+-Feedback from mentors, check for initial connection
+-Proposal deadline by week3, mid July
+-Initial project proposals presentations
+
+#phase 3 | Project Execution
+-July until end oc October
+-Work on your project, executing the proposal
+-Working closely with client teams but still independently
+-Regular AMMs with core devs at Office Hours
+-Regular standups with project updates
+-The actual marathon
+
+#
